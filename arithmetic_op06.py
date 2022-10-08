@@ -5,6 +5,6 @@ number=number/2
 #Find the fraction of the number and assing to a variable called 'answer'.
 answer=number-number//1
 #Print the answer.
-print(number)
+print(answer)
 #Print the number.
-print(answer) 
+print(number) 
