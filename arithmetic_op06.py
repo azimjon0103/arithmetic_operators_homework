@@ -7,4 +7,4 @@ answer=number-number//1
 #Print the answer.
 print(number)
 #Print the number.
-print(answer)
+print(answer) 
