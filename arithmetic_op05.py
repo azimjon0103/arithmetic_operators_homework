@@ -4,4 +4,4 @@ number=12
 answer=number%3
 #Find the remainder of the division of number by 3.
 print(answer)
-#Print the answer
+#Print the answer 
